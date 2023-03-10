@@ -3,11 +3,11 @@ An android app to demonstrate image retargeting technology using beltrami differ
 
 ## Demonstration 
 <p>
-<img src="https://raw.githubusercontent.com/SuperCyberEngineer/android_image_retargeter/results/birds.gif" height="250">
-<img src="https://raw.githubusercontent.com/SuperCyberEngineer/android_image_retargeter/results/fatem.gif" height="250"> 
+<img src="https://github.com/SuperCyberEngineer/android-image-retargeter/raw/main/results/birds.gif" height="250">
+<img src="https://github.com/SuperCyberEngineer/android-image-retargeter/raw/main/results/fatem.gif" height="250">
 <p>
-<img src="https://raw.githubusercontent.com/SuperCyberEngineer/android_image_retargeter/results/mario.gif" height="250">
-<img src="https://raw.githubusercontent.com/SuperCyberEngineer/android_image_retargeter/results/model.png" height="250">
+<img src="https://github.com/SuperCyberEngineer/android-image-retargeter/raw/main/results/mario.gif" height="250">
+<img src="https://github.com/SuperCyberEngineer/android-image-retargeter/raw/main/results/model.gif" height="250">
 
 ## Usage:
 Download: <a href="https://gitlab.com/SuperCyberEngineer/android_image_retargeter/blob/master/RELEASE/IR-1.0.0-release.apk">APK</a><p>
